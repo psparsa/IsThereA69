@@ -1,0 +1,22 @@
+{
+  "name": "is-there-a-69",
+  "version": "1.0.0",
+  "description": "a tool that searches if a phrase or number has a 69 in it",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psparsa/IsThereA69.git"
+  },
+  "keywords": [
+    "meme",
+    "joke",
+    "69"
+  ],
+  "author": "psparsa",
+  "license": "ISC",
+  "homepage": "https://github.com/psparsa/IsThereA69#readme"
+}
